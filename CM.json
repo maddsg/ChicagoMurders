@@ -1,0 +1,24 @@
+{
+  "layers": [
+    {
+      "id": "Crimes_-_One_Year_Prior_to_Present_20261104-2-circle",
+      "paint": {
+        "circle-color": "#FF7200",
+        "circle-opacity": 1.0,
+        "circle-radius": 3.5,
+        "circle-stroke-color": "#FFFFFF",
+        "circle-stroke-width": 1.0
+      },
+      "source": "Crimes_-_One_Year_Prior_to_Present_20261104-2",
+      "type": "circle"
+    }
+  ],
+  "name": "Crimes_-_One_Year_Prior_to_Present_20261104-2",
+  "sources": {
+    "Crimes_-_One_Year_Prior_to_Present_20261104-2": {
+      "data": "Crimes_-_One_Year_Prior_to_Present_20261104-2.geojson",
+      "type": "geojson"
+    }
+  },
+  "version": 8
+}
